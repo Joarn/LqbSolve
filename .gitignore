@@ -1,0 +1,7 @@
+
+# 忽略文件
+
+#/cmake-build-debug/*.exe
+/cmake-build-debug
+/.idea
+/CMakeLists.txt
