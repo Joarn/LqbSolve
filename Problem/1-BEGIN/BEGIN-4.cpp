@@ -4,6 +4,9 @@
 /**
  * Fibonacci数列
  */
+ /**
+  *如果直接求出fn并取余，Fn会很大,直接计算余数往往比先算出原数再取余简单。
+  */
 #include <iostream>
 
 using namespace std;

@@ -4,6 +4,9 @@
 /**
  * 试题 入门训练 序列求和
  */
+ /**
+  * 找寻数列的规律，求和可以简便计算，简化为(1+n)*n/2
+  */
 #include <iostream>
 
 using namespace std;
